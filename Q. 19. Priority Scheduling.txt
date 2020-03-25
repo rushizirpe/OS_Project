@@ -1,6 +1,7 @@
-/* Ten  students  (s1,s2,s3,s4,s5,s6,s7,s8,s9,s10)  are  going  to  attend  an  event.  There  are  lots  of  gift shops, they all are going to the gift shops and randomly picking the gifts. After picking the gifts they  are  randomly  arriving  in  the  billing  counter.  The  accountant  gives  the  preference  to  that student who has maximum number of gifts. 
 
-C Program to define order of billed students? */
+\*Problem 2: In the given problem 10 students i.e s1,s2,s3,s4,s5,s6,s7,s8,s9,s10 are purchasing the gift and arriving to billing counter randomly. The accountant gives the preference to that student who has maximum number of gifts.
+If we refer this problem with respect to operating System concept, In priority scheduling algorithm, a priority is assigned to each process and CPU is allocated to the process which is having the highest priority. If two processes having same priority arrive then the CPU will be allocated according to first come first serve basis.
+C Program for definig order of billed students? */
 
 
 #include<stdio.h>
